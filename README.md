@@ -53,7 +53,7 @@ List of features ready and TODOs for future development
   - `LOAD DATA INPATH '/user/project1/Bev_BranchA.txt' OVERWRITE INTO TABLE beverage_branch_a;`
   - `LOAD DATA INPATH '/user/project1/Bev_BranchB.txt' OVERWRITE INTO TABLE beverage_branch_b;`
   - `LOAD DATA INPATH '/user/project1/Bev_BranchC.txt' OVERWRITE INTO TABLE beverage_branch_c;`
-  - ![output1](![image](https://user-images.githubusercontent.com/57727200/120476009-b4616500-c36f-11eb-895b-210286b8cf5c.png))
+  - ![image](https://github.com/kcheruiyot/p1/blob/main/Scenario1a.PNG)
 
 ## Usage
 > What is the total number of consumers for Branch1?
