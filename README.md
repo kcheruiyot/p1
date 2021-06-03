@@ -17,10 +17,6 @@ List of features ready and TODOs for future development
   * Save query output to files.
   
   To-do list:
-
-  * Wow improvement to be done 1
-  * Wow improvement to be done 2
-
 ## Getting Started
 - Enable WSL and update to WSL2 on Windows 10
 > Install Java JDK 1.8 on Windows 10
